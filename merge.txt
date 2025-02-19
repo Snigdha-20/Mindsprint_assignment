@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-okkkkkkkkkkkkkkkkkkkkkkk
-=======
-Adding some more changes in the merge file of copybranch
->>>>>>> copybranch
